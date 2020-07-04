@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, my name is Ítalo Polazzi 👋
 
-<!--
-**italopolazzi/italopolazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![test](https://aboutme.imgix.net/background/users/i/t/a/italopolazzi_1591203331_329.jpg?q=40&dpr=2&auto=format&fit=max&w=1200&h=1799.9100044997751)
 
-Here are some ideas to get you started:
+I am a web developer and graphic designer currently living in Contagem, MG - Brazil. My interests range from web development to arts. I am also interested in music, animals and languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my portfolio
+- 🌱 I’m currently learning to be a better version of me
+- 👯 I’m looking to collaborate on front-end projects
+- 📫 How to reach me: you can send me an [e-mail](mailto:itpzzi@gmail.com) or interacte with me on [twitter](https://twitter.com/italopolazzi)
+- 😄 Pronouns: [he/him]
+- ⚡ Fun fact: I love cats, music and learn.
+
+My main skills are
+* Vue.js
+* React.js
+* Node.js
+* SASS
+* Firebase
+* Adobe Photoshop
+* Adobe Illustrator
+
+# Education
+Bachelor degree in Computer Science | UNI-BH
+
