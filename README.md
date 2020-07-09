@@ -1,4 +1,4 @@
-<img src="https://italopolazzi.github.io/img/doodle%20(1).png" alt="" width="40%"   />
+<img src="https://italopolazzi.github.io/_nuxt/img/5fcdeb7.svg" alt="" width="100%"   />
 
 ### Hi there, my name is Ítalo Polazzi 👋
 
