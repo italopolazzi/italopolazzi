@@ -1,4 +1,11 @@
-<img src="https://italopolazzi.github.io/img/doodle%20(1).png" alt="" width="50%"  />
+<style>
+.image {
+  width: 50%;
+  border-radius: 100%;
+}
+</style>
+
+<img src="https://italopolazzi.github.io/img/doodle%20(1).png" alt=""   />
 
 ### Hi there, my name is Ítalo Polazzi 👋
 
