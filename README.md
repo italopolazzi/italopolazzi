@@ -1,5 +1,3 @@
-<img src="https://avatars3.githubusercontent.com/u/20938880?s=460&u=5b13dc5898d8af623aa94e5725ad4a1bd8d96483&v=4" width="100">
-
 ### Hi there, my name is Ítalo Polazzi 👋
 
 
