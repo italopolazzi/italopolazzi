@@ -1,9 +1,4 @@
-.image {
-  width: 50%;
-  border-radius: 100%;
-}
-
-<img src="https://italopolazzi.github.io/img/doodle%20(1).png" alt="" class="image"   />
+<img src="https://italopolazzi.github.io/img/doodle%20(1).png" alt="" style="width: 50%; border-radius: 100%;"   />
 
 ### Hi there, my name is Ítalo Polazzi 👋
 
