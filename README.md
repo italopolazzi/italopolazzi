@@ -1,3 +1,5 @@
+<img src="https://italopolazzi.github.io/img/doodle%20(1).png" alt="" width="50%"  />
+
 ### Hi there, my name is Ítalo Polazzi 👋
 
 
