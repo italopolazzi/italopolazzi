@@ -1,4 +1,4 @@
-<img src="https://github.com/italopolazzi/italopolazzi/blob/master/SeBANNER_name2.png" alt="" width="100%"   />
+<img src="https://github.com/italopolazzi/italopolazzi/blob/master/capa-tt.jpg" alt="" width="100%"   />
 
 ### Hi there, my name is Ítalo Polazzi 👋
 
