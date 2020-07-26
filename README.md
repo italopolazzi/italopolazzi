@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Front-End projects**
 
-- 👨‍💻 I'm graduated as [Computer Scientist](Computer Scientist)
+- 👨‍💻 I'm graduated as Computer Scientist
 
 - 💬 Ask me about **React, Vue, HTML and others web technologies**
 
