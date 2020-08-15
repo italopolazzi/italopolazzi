@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, Vue, HTML and others web technologies**
 
-- 📫 How to reach me: you can send me an [e-mail](mailto:itpzzi@gmail.com) or interacte with me on [twitter](https://twitter.com/italopolazzi)
+- 📫 How to reach me: you can send me an [e-mail](mailto:itpzzi@gmail.com) or interact with me on [twitter](https://twitter.com/italopolazzi)
 
 - ⚡ Main skills **Vue.js, Vuetify, HTML5, EcmaScript 6, CSS3**
 
