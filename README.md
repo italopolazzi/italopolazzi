@@ -5,7 +5,7 @@
 
 <img src="https://github.com/italopolazzi/italopolazzi/blob/master/SeBANNER_LINE.png" alt="" width="100%"   />
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working as **Front-End Developer** at PontoTel.
 
 - 👯 I’m looking to collaborate on **Front-End projects**
 
